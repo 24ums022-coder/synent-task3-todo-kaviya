@@ -1,0 +1,23 @@
+# Python To-Do List
+
+## Objective
+A simple Python program to manage daily tasks.
+
+## Features
+- Add new tasks
+- View existing tasks
+- Delete tasks
+- Simple menu-based interface
+
+## How to Run
+Run the `todo_list.py` file using Python.
+
+## Example
+1 - Add
+2 - View
+3 - Delete
+4 - Exit
+
+Choose: 1
+Enter task: Complete Python project
+Added!
